@@ -12,7 +12,8 @@ font-family: Allegro;
 }
 
 #menu ul li a {
-	padding: 2px 10px;
+	padding: 0px;
+	margin: 0px;
 	display: inline;
 	background-color:#EDEDED;
 	color: #333;
