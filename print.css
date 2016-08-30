@@ -19,7 +19,7 @@ time, mark, audio, video {
   border: 0;
 }
 .book{
-  margin: auto;
+   margin-left: 50px;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
