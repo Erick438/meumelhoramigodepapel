@@ -15,9 +15,12 @@ html {
 /**
  * Remove default margin.
  */
-
+ 
+.book{
+  margin-left: 50px;
+}
 body {
-  margin: 0;
+  margin: 10 px;
 }
 
 /* HTML5 display definitions
