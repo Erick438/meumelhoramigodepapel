@@ -21,6 +21,11 @@ time, mark, audio, video {
 .book{
    margin-left: 50px;
 }
+
+.name{
+  margin: 0px;  
+}
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
